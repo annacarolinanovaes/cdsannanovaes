@@ -1,0 +1,19 @@
+table{
+	text-align: center;
+}
+
+th{
+	text-align: center;
+}
+
+.texto{
+	font-size: 18px;
+	line-height: 2px;
+}
+
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
